@@ -12,7 +12,7 @@
 
 # testing
 /coverage
-src\components\MultilevelMenu.tsx
+src/components/MultilevelMenu.tsx
 
 # next.js
 /.next/
